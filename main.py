@@ -34,7 +34,7 @@ class ImageToPDFConverter:
         self.convertButton = tk.Button(self.root,text="Convert to PDF",font=("Comic Sans MS",12,"bold"),fg="white",bg="#003b63",activebackground="#005999",activeforeground="white",padx=20,pady=8,command=self.convert_images_to_pdf,state="disabled")
         self.convertButton.pack(pady=(0,25))
 
-        footer = tk.Label(self.root,text="Supports PNG, JPG, JPEG\nMADE BY JP", font=("Comic Sans MS",9,"bold"),fg="#FFFFFF",bg="black")
+        footer = tk.Label(self.root,text="Supports PNG, JPG, JPEG", font=("Comic Sans MS",9,"bold"),fg="#FFFFFF",bg="black")
         footer.pack(side="bottom",pady=15)
         
     def select_images(self):
