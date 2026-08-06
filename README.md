@@ -17,3 +17,12 @@ I have made a simple to use app built with **Python** & **Tkinter** that can con
 # Installation
 
 You don't have to do much to get this app running on your desktop. You can simply head over to my release section and then download the exe file. After it is complete downloading just double click and start using the app.
+
+# Built With
+
+1. Python
+2. Tkinter
+
+# About This Project
+
+I have always used a third party app to turn my images to pdf but then I thought I should make one and should push it to the Stardance Challenge. I did use some YouTube videos to make it and get the understanding. 
